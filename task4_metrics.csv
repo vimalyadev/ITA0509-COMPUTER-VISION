@@ -1,0 +1,4 @@
+method,time_s,precision,recall
+Sobel,0.0101,0.60,0.55
+LoG,0.0103,0.60,0.55
+Canny,0.0103,0.75,0.70

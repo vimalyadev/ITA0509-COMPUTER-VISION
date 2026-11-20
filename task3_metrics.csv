@@ -1,0 +1,4 @@
+representation,time_s,storage_kb,top1_acc
+raw_pixel,0.0103,4,0.70
+histogram,0.0102,2,0.70
+local_features,0.0104,8,0.92

@@ -1,0 +1,4 @@
+pipeline,time_s,keypoints
+A_minimal,0.0103,80
+B_noise_contrast,0.0105,80
+C_full,0.0104,150

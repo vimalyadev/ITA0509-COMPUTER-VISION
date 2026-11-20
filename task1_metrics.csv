@@ -1,0 +1,4 @@
+pipeline,time_s,accuracy
+low,0.0102,0.60
+low_mid,0.0105,0.60
+low_mid_high,0.0104,0.90
